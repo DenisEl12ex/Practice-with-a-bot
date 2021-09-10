@@ -1,0 +1,1 @@
+Practice with a bot. The first serious acquaintance with scripts
